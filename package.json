@@ -12,6 +12,6 @@
     "archiver": "^1.0.1",
     "express": "^4.14.0",
     "request": "^2.74.0",
-    "unzipper": "^0.3.2"
+    "unzipper": "^0.10.10"
   }
 }
